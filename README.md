@@ -1,5 +1,5 @@
 # data-transfer-protocol
-this repository contains modules of data transfer protocol (HTTP and Websocket) for measuring performance each protocol when sending data (FOR RESEARCH PURPOSE ONLY)
+this repository contains modules of data transfer protocol (HTTP and Websocket) for measuring performance each protocol when sending data 
 
 ## Description
 ### HTTP
